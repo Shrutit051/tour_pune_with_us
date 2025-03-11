@@ -4,6 +4,9 @@
 
 The **Travel Preferences and Destination Recommendation System** is a Java-based application that allows users to input their travel preferences and receive personalized destination recommendations. The system uses a MySQL database to store user information, preferences, and destination details. It provides both a **command-line interface (CLI)** and a **graphical user interface (GUI)** for user interaction.
 
+## Video link
+https://drive.google.com/file/d/1kwlwRwPUqTs-vJDM8iP3DSx8RLyjOeMh/view?usp=sharing
+
 ## Features
 
 ### User Features
